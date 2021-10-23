@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a turtle 
+- 👋 Hi, I’m a turtle 🐢
 - 👀 I’m interested in -> coding, web development, salad
 - 🌱 I’m currently learning -> how to fly
 - 💞️ I’m looking to collaborate with -> eagles

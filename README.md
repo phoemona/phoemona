@@ -1,8 +1,8 @@
-- 👋 Hi, I’m a turtle
-- 👀 I’m interested in -> coding, web development
-- 🌱 I’m currently learning -> CSS
-- 💞️ I’m looking to collaborate on -> no
-- 📫 How to reach me -> via github
+- 👋 Hi, I’m a turtle 
+- 👀 I’m interested in -> coding, web development, salad
+- 🌱 I’m currently learning -> how to fly
+- 💞️ I’m looking to collaborate with -> eagles
+- 📫 How to reach me -> via github or turtle@mail.trusty-eagle-inc.
 
 <!---
 phoemona/phoemona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
